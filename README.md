@@ -16,6 +16,9 @@ Download the libraries
  *  SinricPro Library: https://sinricpro.github.io/esp8266-esp32-sdk/
 
 # NOTE:
-> while uploading the code press ''Boot'' button on ESP32 module when you see ''connecting... ....'' in command window of Arduino IDE.
+> while uploading the code press ''Boot'' button on ESP32 module when you see ''connecting... ....'' in command window of Arduino IDE. If you don't press you will see this error.
+![WhatsApp Image 2022-04-24 at 10 48 40 AM](https://user-images.githubusercontent.com/104286274/164957930-746eb945-9771-45c2-97a5-9bd00f1236c6.jpeg)
+
+
 
 > use 2.4 ghz wifi only ESP32 cannot connect to 5 ghz wifi.
