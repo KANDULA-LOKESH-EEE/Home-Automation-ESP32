@@ -10,5 +10,6 @@ For uploading code to ESP32 download Arduino ide
 https://www.arduino.cc/en/software
 
 # NOTE:
-> while uploading the code press boot button on ESP32 module when you see connecting... .... in command window of Arduino IDE.
-> use 2.4 ghz wifi only ESP32 cannot connect to 5 ghz wifi
+> while uploading the code press ''Boot'' button on ESP32 module when you see ''connecting... ....'' in command window of Arduino IDE.
+
+> use 2.4 ghz wifi only ESP32 cannot connect to 5 ghz wifi.
