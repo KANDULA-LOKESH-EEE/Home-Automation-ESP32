@@ -1,1 +1,1 @@
-
+# setting up sinricpro
