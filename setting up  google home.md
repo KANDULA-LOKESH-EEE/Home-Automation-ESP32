@@ -27,6 +27,18 @@
 
 # STEP 7: After adding it should look like this.
 
-![image](https://user-images.githubusercontent.com/104286274/167341313-845129d2-6849-4a05-baa1-986d637c6ff2.png)
+
+![Sinric Pro 09-05-2022 10_14_08](https://user-images.githubusercontent.com/104286274/167342769-50347a86-8bf0-4490-a609-89371db78e33.png)
 
 # STEP 8: Copy the device id and paste in the code that i have provided. 
+
+![image](https://user-images.githubusercontent.com/104286274/167341937-7c83bf76-c913-4fc0-bfb2-973445978431.png)
+
+# STEP 9: Add your wifi name and password, just below you add app key and app secret.
+
+![image](https://user-images.githubusercontent.com/104286274/167343163-2ec3c6a7-1d39-43c0-9dad-bcbe186e1e83.png)
+
+# STEP 10: You an get app key and app secret from here.
+
+![image](https://user-images.githubusercontent.com/104286274/167343616-8ff52cb0-b925-4754-9736-b5fce91a4592.png)
+
