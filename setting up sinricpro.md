@@ -21,7 +21,7 @@
 
 ![image](https://user-images.githubusercontent.com/104286274/167339404-59c29ac6-4874-48b1-a78c-86ea3a686c7f.png)
 
-# STEP 6: Add 3 devices with different name, if want more devices you need to pay first 3 devices are free.
+# STEP 6: Add 3 devices with different name, if want more devices you need to pay. first 3 devices are free.
 
 ![image](https://user-images.githubusercontent.com/104286274/167339960-c6dfacd2-b823-433d-b6a8-81c9ef3891bf.png)
 
