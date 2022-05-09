@@ -2,6 +2,10 @@
 
 # STEP 1 : DOWNLOAD ALEXA APP.
 
+![download](https://user-images.githubusercontent.com/104286274/167345963-c3f68d64-4712-4e52-956a-786c45fa9daa.png)
+
+
+
 # STEP 2 : OPEN THE APP YOU WILL SEE THIS PAGE, PRESS MORE.
 
 ![WhatsApp Image 2022-04-24 at 12 48 32 PM](https://user-images.githubusercontent.com/104286274/164964859-d108dd8e-8197-4ed9-96ed-57f70c6eaa13.jpeg)
