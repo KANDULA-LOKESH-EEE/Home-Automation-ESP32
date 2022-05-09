@@ -29,4 +29,4 @@
 
 ![image](https://user-images.githubusercontent.com/104286274/167341313-845129d2-6849-4a05-baa1-986d637c6ff2.png)
 
-# STEP 8: 
+# STEP 8: Copy the device id and paste in the code that i have provided. 
