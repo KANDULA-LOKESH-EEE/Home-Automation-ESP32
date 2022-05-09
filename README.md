@@ -9,6 +9,11 @@ In this ESP32 project, I have explained how to make IoT based projects using ESP
 For uploading code to ESP32 download Arduino ide
 https://www.arduino.cc/en/software
 
+# SINRICPRO WEBSITE
+
+  https://portal.sinric.pro/login
+  
+
 # LIBRARIES 
 Download the libraries
  *  ArduinoJson Library: https://github.com/bblanchon/ArduinoJson
