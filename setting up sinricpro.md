@@ -38,7 +38,7 @@
 
 ![image](https://user-images.githubusercontent.com/104286274/167343163-2ec3c6a7-1d39-43c0-9dad-bcbe186e1e83.png)
 
-# STEP 10: You an get app key and app secret from here.
+# STEP 10: You an get app key and app secret from here. 
 
 ![image](https://user-images.githubusercontent.com/104286274/167343616-8ff52cb0-b925-4754-9736-b5fce91a4592.png)
 
